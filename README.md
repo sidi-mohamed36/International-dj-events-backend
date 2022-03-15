@@ -1,8 +1,8 @@
 DJ Events (Strapi Backend)
 
-> Strapi backend for the DJ Events website. This is part of my Next.js course on Udemy
+> Strapi backend for the DJ Events website created by Next.js React.js 
 
-The Next.js frontend can be found [here](https://github.com/bradtraversy/dj-events-frontend)
+The Next.js frontend can be found [here](https://github.com/sidi-mohamed36/Dj-events-frontend)
 
 # Usage
 
